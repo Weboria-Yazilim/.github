@@ -1,4 +1,4 @@
-![Weboria — dijital ürünler için tasarım ve yazılım stüdyosu](assets/weboria-banner.png)
+![Weboria — dijital ürünler için tasarım ve yazılım stüdyosu](assets/weboria-banner.gif)
 
 # Weboria Yazılım
 
